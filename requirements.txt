@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+requests
+pillow
+numpy
+opencv-python
+scikit-learn
+pandas
+matplotlib
+torch
