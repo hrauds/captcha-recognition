@@ -5,8 +5,8 @@ aiofiles
 requests
 pillow
 numpy
-opencv-python
 scikit-learn
 pandas
 matplotlib
 torch
+torchvision
